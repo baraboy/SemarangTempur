@@ -11,13 +11,13 @@
 		3320342B2AE035360072988C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3320342A2AE035360072988C /* ContentView.swift */; };
 		3320342D2AE035360072988C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3320342C2AE035360072988C /* Assets.xcassets */; };
 		332034302AE035360072988C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3320342F2AE035360072988C /* Preview Assets.xcassets */; };
-		332034392AE0363E0072988C /* StagesOne.sks in Resources */ = {isa = PBXBuildFile; fileRef = 332034382AE0363E0072988C /* StagesOne.sks */; };
+		332034392AE0363E0072988C /* StageOne.sks in Resources */ = {isa = PBXBuildFile; fileRef = 332034382AE0363E0072988C /* StageOne.sks */; };
 		3320343B2AE039FC0072988C /* Background.sks in Resources */ = {isa = PBXBuildFile; fileRef = 3320343A2AE039FC0072988C /* Background.sks */; };
 		3364839E2AE0CB6A0073FA4C /* Kotak.sks in Resources */ = {isa = PBXBuildFile; fileRef = 3364839D2AE0CB6A0073FA4C /* Kotak.sks */; };
 		336483A02AE0E4260073FA4C /* Duri.sks in Resources */ = {isa = PBXBuildFile; fileRef = 3364839F2AE0E4260073FA4C /* Duri.sks */; };
-		336483A22AE172050073FA4C /* GameOverScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 336483A12AE172050073FA4C /* GameOverScene.sks */; };
+		336483A22AE172050073FA4C /* GameOver.sks in Resources */ = {isa = PBXBuildFile; fileRef = 336483A12AE172050073FA4C /* GameOver.sks */; };
 		3372700F2AE03C0A0006AD50 /* Wall.sks in Resources */ = {isa = PBXBuildFile; fileRef = 3372700E2AE03C0A0006AD50 /* Wall.sks */; };
-		337270112AE03F670006AD50 /* StagesOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337270102AE03F670006AD50 /* StagesOne.swift */; };
+		337270112AE03F670006AD50 /* StageOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337270102AE03F670006AD50 /* StageOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,13 +26,13 @@
 		3320342A2AE035360072988C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3320342C2AE035360072988C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3320342F2AE035360072988C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		332034382AE0363E0072988C /* StagesOne.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = StagesOne.sks; sourceTree = "<group>"; };
+		332034382AE0363E0072988C /* StageOne.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = StageOne.sks; sourceTree = "<group>"; };
 		3320343A2AE039FC0072988C /* Background.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Background.sks; sourceTree = "<group>"; };
 		3364839D2AE0CB6A0073FA4C /* Kotak.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Kotak.sks; sourceTree = "<group>"; };
 		3364839F2AE0E4260073FA4C /* Duri.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Duri.sks; sourceTree = "<group>"; };
-		336483A12AE172050073FA4C /* GameOverScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameOverScene.sks; sourceTree = "<group>"; };
+		336483A12AE172050073FA4C /* GameOver.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameOver.sks; sourceTree = "<group>"; };
 		3372700E2AE03C0A0006AD50 /* Wall.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Wall.sks; sourceTree = "<group>"; };
-		337270102AE03F670006AD50 /* StagesOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StagesOne.swift; sourceTree = "<group>"; };
+		337270102AE03F670006AD50 /* StageOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,14 +67,14 @@
 			children = (
 				332034282AE035360072988C /* SemarangTempurApp.swift */,
 				3320342A2AE035360072988C /* ContentView.swift */,
-				337270102AE03F670006AD50 /* StagesOne.swift */,
-				336483A12AE172050073FA4C /* GameOverScene.sks */,
+				337270102AE03F670006AD50 /* StageOne.swift */,
+				336483A12AE172050073FA4C /* GameOver.sks */,
 				3320342C2AE035360072988C /* Assets.xcassets */,
 				3364839F2AE0E4260073FA4C /* Duri.sks */,
 				3364839D2AE0CB6A0073FA4C /* Kotak.sks */,
 				3320343A2AE039FC0072988C /* Background.sks */,
 				3372700E2AE03C0A0006AD50 /* Wall.sks */,
-				332034382AE0363E0072988C /* StagesOne.sks */,
+				332034382AE0363E0072988C /* StageOne.sks */,
 				3320342E2AE035360072988C /* Preview Content */,
 			);
 			path = SemarangTempur;
@@ -149,8 +149,8 @@
 				3372700F2AE03C0A0006AD50 /* Wall.sks in Resources */,
 				332034302AE035360072988C /* Preview Assets.xcassets in Resources */,
 				3364839E2AE0CB6A0073FA4C /* Kotak.sks in Resources */,
-				332034392AE0363E0072988C /* StagesOne.sks in Resources */,
-				336483A22AE172050073FA4C /* GameOverScene.sks in Resources */,
+				332034392AE0363E0072988C /* StageOne.sks in Resources */,
+				336483A22AE172050073FA4C /* GameOver.sks in Resources */,
 				3320343B2AE039FC0072988C /* Background.sks in Resources */,
 				3320342D2AE035360072988C /* Assets.xcassets in Resources */,
 				336483A02AE0E4260073FA4C /* Duri.sks in Resources */,
@@ -166,7 +166,7 @@
 			files = (
 				3320342B2AE035360072988C /* ContentView.swift in Sources */,
 				332034292AE035360072988C /* SemarangTempurApp.swift in Sources */,
-				337270112AE03F670006AD50 /* StagesOne.swift in Sources */,
+				337270112AE03F670006AD50 /* StageOne.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
